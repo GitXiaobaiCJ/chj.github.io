@@ -1,0 +1,22 @@
+{
+  "name": "gitxiaobaicj",
+  "version": "1.0.0",
+  "description": "无",
+  "main": "flutter_service_worker.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitXiaobaiCJ/chj.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitXiaobaiCJ/chj.github.io/issues"
+  },
+  "homepage": "https://github.com/GitXiaobaiCJ/chj.github.io#readme",
+  "publishConfig": {
+   "gitxiaobaicj:registry": "https://npm.pkg.github.com"
+ }
+}
